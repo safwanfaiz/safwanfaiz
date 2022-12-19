@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Safwan Faiz</h1>
 
-<h3 align="center">A passionate fullstack developer from India, And a Mechanical engineer.Does exercise on daily basis, play cricket , love to explore new places, perfumer by passion and part time youtuber</h3>
+<h3 align="center">Dedicated and passionate full stack web developer with the ability to
+                write clean, reusable,code. Skilled and experienced at
+                building and maintaining MERN based web applications. Looking
+                forward to join a progressive and challenging work environment.Does exercise on daily basis, play cricket , love to explore new places, perfumer by passion and part time youtuber</h3>
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="safwanfaiz" /> </p>
 
