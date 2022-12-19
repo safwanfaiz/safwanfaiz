@@ -19,6 +19,7 @@
 <a href="https://www.youtube.com/c/faaniduniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faaniduniya" height="30" width="40" /></a>
   
 <a href="https://linkedin.com/in/safwan-faiz-0343a6184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwan-faiz-0343a6184" height="30" width="40" /></a>
+  <a href="https://dribbble.com/https://safwanfaiz.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://safwanfaiz.github.io" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
