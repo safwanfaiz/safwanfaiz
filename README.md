@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Safwan Faiz</h1>
 
-<h3 align="center">A passionate fullstack developer from India, And a Mechanical engineer..Love to emerging technplogies.Do exercise on daily basis, play cricket , love to explore new places, [erfumer by passion and part time youtuber</h3>
+<h3 align="center">A passionate fullstack developer from India, And a Mechanical engineer..Love to emerging technplogies.Do exercise on daily basis, play cricket , love to explore new places, perfumer by passion and part time youtuber</h3>
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="safwanfaiz" /> </p>
 
@@ -13,6 +13,7 @@
 - 💬 Ask me about **js,react,**
 
 - 📫 How to reach me **safwanfaiz8@gmail.com**
+- 🔭  Portfolio **https://safwanfaiz.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
