@@ -1,6 +1,7 @@
 <img width="100%" height="300px" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif" alt="safwan-git-banner">
 
 <h1 align="center">Hi 👋, I'm Safwan Faiz</h1>
+
 <h3 align="center">A passionate fullstack developer from India, And a Mechanical engineer..Love to emerging technplogies.Do exercise on daily basis, play cricket , love to explore new places, [erfumer by passion and part time youtuber</h3>
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="safwanfaiz" /> </p>
@@ -19,7 +20,7 @@
 <a href="https://www.youtube.com/c/faaniduniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faaniduniya" height="30" width="40" /></a>
   
 <a href="https://linkedin.com/in/safwan-faiz-0343a6184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwan-faiz-0343a6184" height="30" width="40" /></a>
-  <a href="https://dribbble.com/https://safwanfaiz.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://safwanfaiz.github.io" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
